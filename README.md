@@ -3,13 +3,21 @@
 #WHAT DID I DO IN THE PROJECT?
 
 ++ The project was programmed with swiftUI.
+
 ++ MVVM design.
+
 ++ Adding assets asset file used in the project (single scale)
+
 ++ The project was within the pokemonAPI.
+
 ++ Homepage design has been done.
+
 ++ Button is added. (Indicates the first element in Pokemon.)
+
 ++ Card design done.
+
 ++ All of the data in the card design can be called API.
+
 ++ Since x and y coordinates have been revised, the animation effect has been coded and added to the card design.
 
 
