@@ -35,7 +35,10 @@
 ![Simulator Screen Shot - iPhone 12 - 2022-08-02 at 23 18 37 Küçük](https://user-images.githubusercontent.com/81331435/182466105-e55b9a75-f76c-4f6f-8b69-9413ba07f712.jpeg)
  ![Simulator Screen Shot - iPhone 12 - 2022-08-02 at 23 18 46 Küçük](https://user-images.githubusercontent.com/81331435/182466233-65427a82-d86e-4a49-8ef7-e7864e806e85.jpeg)
  ![Simulator Screen Shot - iPhone 12 - 2022-08-02 at 23 18 49 Küçük](https://user-images.githubusercontent.com/81331435/182466237-010b34d6-63b8-470a-b869-672f8fa45ce5.jpeg)
-3f4b.jpeg)
+
+![Simulator Screen Shot - iPhone 12 - 2022-08-02 at 23 19 04 Küçük](https://user-images.githubusercontent.com/81331435/182466640-66d8fe5b-11d2-4e9c-a5cf-36564f4360d0.jpeg)
+![Simulator Screen Shot - iPhone 12 - 2022-08-02 at 23 19 13 Küçük](https://user-images.githubusercontent.com/81331435/182466833-0a18d4d3-a3be-4526-9bf3-f0931458d522.jpeg)
+![Simulator Screen Shot - iPhone 12 - 2022-08-02 at 23 24 58 Küçük](https://user-images.githubusercontent.com/81331435/182466836-ec74daca-4ca9-4cec-a1ff-708c252b1e82.jpeg)
 
 
 
