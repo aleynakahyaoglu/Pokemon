@@ -25,6 +25,7 @@
 
 # PROJECT SIMILATOR SCREENSHOTS
 
+## POKEMON CARD DESIGN
 
 ![Simulator Screen Shot - iPhone 12 - 2022-08-02 at 21 59 21 Küçük](https://user-images.githubusercontent.com/81331435/182462651-9ec1e635-2403-442f-a0bd-0fab6b8bb25a.jpeg)
 
