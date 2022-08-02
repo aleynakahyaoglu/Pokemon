@@ -42,6 +42,9 @@
 ![Simulator Screen Shot - iPhone 12 - 2022-08-02 at 23 24 58 Küçük](https://user-images.githubusercontent.com/81331435/182466836-ec74daca-4ca9-4cec-a1ff-708c252b1e82.jpeg)
 
 
+# PROJECT ROTATION ANIMATION VIDEO RECORD 
+
+
 
 
 
